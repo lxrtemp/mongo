@@ -26,6 +26,9 @@
  *    delete this exception statement from all source files in the program,
  *    then also delete it in the license file.
  */
+ 
+ 
+// COmments to understnad
 
 #include "mongo/platform/bits.h"
 
